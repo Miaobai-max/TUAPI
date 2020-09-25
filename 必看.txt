@@ -1,0 +1,5 @@
+源码上传到服务器根目录即可
+修改index.html 
+里面的https://acg.ccoyun.cn替换成你的网址
+
+喵白博客：blog.ccoyun.cn
